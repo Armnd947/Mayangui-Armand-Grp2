@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mon site Dragon Ball Z</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Dragon Ball Z</h1>
+        <nav>
+            <h2>Saga des Saiyens</h2>
+    <main>
+        <img src="image/saga saiyan.jpg" alt="Image de la saga des Saiyens">
+        <li><a href="saga saiyan">Saga des Saiyens</a></li>
+        <nav>
+            <h2>Saga Namek</h2>
+    <main>
+        <img src="image/saga namek.jpg" alt="Image de la saga Namek">
+        <li><a href="saga namek">Saga Namek</a></li>
+
+        <h2>Saga Android</h2>
+    <main>
+        <img src="image/saga android.jpg" alt="Image de la saga Android">
+        <li><a href="saga android">Saga Android</a></li>
+
+        <h2>Saga Cell</h2>
+    <main>
+        <img src="image/saga cell.jpg" alt="Image de la saga cell">
+        <li><a href="saga cell">Saga cell</a></li>
+
+        <h2>Saga Buu</h2>
+    <main>
+        <img src="image/saga buu.jpg" alt="Image de la saga buu">
+        <li><a href="saga buu">Saga buu</a></li>
+    </main>
+    <footer>
+        </footer>
+    <script src="script.js"></script>
+</body>
+</html>
